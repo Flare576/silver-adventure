@@ -1,0 +1,860 @@
+w:1000
+kp:enter
+t:get shovel
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:dig
+kp:enter
+t:take card
+kp:enter
+t:se
+kp:enter
+t:take food
+kp:enter
+t:se
+kp:enter
+t:drop food
+kp:enter
+t:take key
+kp:enter
+t:sw
+kp:enter
+t:take bracelet
+kp:enter
+t:ne
+kp:enter
+t:nw
+kp:enter
+t:nw
+kp:enter
+t:ne
+kp:enter
+t:ne
+kp:enter
+t:ne
+kp:enter
+t:w
+kp:enter
+t:put card in cabinet
+kp:enter
+t:type
+kp:enter
+t:toukmond
+kp:enter
+t:robert
+kp:enter
+w:500
+t:ftp gamma
+kp:enter
+t:anonymous
+kp:enter
+t:toukmond
+kp:enter
+t:binary
+kp:enter
+#t:send bracelet.o
+#kp:enter
+t:send lamp.o
+kp:enter
+t:send shovel.o
+kp:enter
+t:send key.o
+kp:enter
+t:quit
+kp:enter
+t:rlogin gamma
+kp:enter
+t:worms
+kp:enter
+w:500
+t:get lamp
+kp:enter
+t:e
+kp:enter
+t:n
+kp:enter
+t:e
+kp:enter
+t:get weight
+kp:enter
+t:d
+kp:enter
+t:drop weight
+kp:enter
+t:nw
+kp:enter
+t:u
+kp:enter
+t:take all
+kp:enter
+t:se
+kp:enter
+t:d
+kp:enter
+t:nw
+kp:enter
+t:ne
+kp:enter
+t:get preserver
+kp:enter
+t:w
+kp:enter
+t:s
+kp:enter
+t:drop disk
+kp:enter
+t:e
+kp:enter
+t:turn dial clockwise
+kp:enter
+t:turn dial clockwise
+kp:enter
+t:turn dial clockwise
+kp:enter
+t:turn dial counterclockwise
+kp:enter
+t:turn dial counterclockwise
+kp:enter
+t:turn dial counterclockwise
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:n
+kp:enter
+t:e
+kp:enter
+t:d
+kp:enter
+t:nw
+kp:enter
+t:u
+kp:enter
+t:se
+kp:enter
+t:d
+kp:enter
+t:nw
+kp:enter
+t:nw
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:put diamond in chute
+kp:enter
+#t:put bracelet in chute
+#kp:enter
+t:s
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:n
+kp:enter
+t:d
+kp:enter
+t:d
+kp:enter
+t:sw
+kp:enter
+t:e
+kp:enter
+t:u
+kp:enter
+t:dig
+kp:enter
+t:get all
+kp:enter
+t:d
+kp:enter
+t:w
+kp:enter
+t:ne
+kp:enter
+t:u
+kp:enter
+t:s
+kp:enter
+t:put platinum in urinal
+kp:enter
+t:flush
+kp:enter
+t:put gold in urinal
+kp:enter
+t:flush
+kp:enter
+t:n
+kp:enter
+t:d
+kp:enter
+t:sw
+kp:enter
+t:w
+kp:enter
+t:d
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:d
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:put disk in pc
+kp:enter
+t:reset
+kp:enter
+w:4000
+t:3:22:31
+kp:enter
+t:type foo.txt
+kp:enter
+w:5000
+#attempt to copy the code...
+t:exit
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+t:u
+kp:enter
+t:put key in box
+kp:enter
+t:u
+kp:enter
+t:u
+kp:enter
+t:ne
+kp:enter
+t:ne
+kp:enter
+t:get axe
+kp:enter
+t:d
+kp:enter
+t:n
+kp:enter
+t:w
+kp:enter
+#wait for user to enter code
+w:5000
+kp:enter
+t: cut ethernet cord
+kp:enter
+t:exit
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:n
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:n
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:n
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:n
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:n
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:w
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:enter bus
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:s
+kp:enter
+t:w
+kp:enter
+t:w
+kp:enter
+t:w
+kp:enter
+t:w
+kp:enter
+t:w
+kp:enter
+t:nw
+kp:enter
+t:exit bus
+kp:enter
+t:n
+kp:enter
+t:e
+kp:enter
+t:n
+kp:enter
+t:get all
+kp:enter
+t:e
+kp:enter
+t:get all
+kp:enter
+t:put glycerine in jar
+kp:enter
+t:s
+kp:enter
+t:get all
+kp:enter
+t:put acid in jar
+kp:enter
+t:w
+kp:enter
+t:w
+kp:enter
+t:s
+kp:enter
+t:se
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:e
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+t:throw jar
+kp:enter
+t:enter train
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+t:put bracelet in disposal
+kp:enter
+t:put egg in disposal
+kp:enter
+t:put coins in disposal
+kp:enter
+t:put ruby in disposal
+kp:enter
+t:put silver in disposal
+kp:enter
+t:d
+kp:enter
+t:get all
+kp:enter
+t:u
+kp:enter
+t:put amethyst in disposal
+kp:enter
+t:u
+kp:enter
+t:w
+kp:enter
+t:w
+kp:enter
+t:s
+kp:enter
+t:w
+kp:enter
+t:s
+kp:enter
+t:se
+kp:enter
+t:s
+kp:enter
+t:e
+kp:enter
+t:s
+kp:enter
+t:w
+kp:enter
+t:type
+kp:enter
+t:rlogin endgame
+kp:enter
+t:get all
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+#if I can figure out how to scrape stdout, this would still need some sort of lookup table...
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:n
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:n
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+# can I just leave the bill?
+#t:get all
+#kp:enter
+
+t:drop diamond
+kp:enter
+t:drop bracelet
+kp:enter
+t:drop platinum
+kp:enter
+t:drop gold
+kp:enter
+t:drop egg
+kp:enter
+t:drop coins
+kp:enter
+t:drop ruby
+kp:enter
+#t:drop bill
+#kp:enter
+
+t:s
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:s
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:s
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:s
+kp:enter
+
+t:get all
+kp:enter
+t:n
+kp:enter
+t:n
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:n
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:n
+kp:enter
+
+t:answer Stock
+kp:enter
+t:answer 20
+kp:enter
+t:answer Robert
+kp:enter
+t:answer tcp/ip
+kp:enter
+t:answer 2
+kp:enter
+t:answer 24
+kp:enter
+t:answer mobytours
+kp:enter
+t:answer stallman
+kp:enter
+t:answer 10
+kp:enter
+t:answer Vermont
+kp:enter
+t:answer toukmond
+kp:enter
+t:answer grizzly
+kp:enter
+t:answer 4
+kp:enter
+t:answer Card
+kp:enter
+t:answer Snoopy
+kp:enter
+
+t:n
+kp:enter
+t:get all
+kp:enter
+t:s
+kp:enter
+t:drop mona
+kp:enter
+t:drop silver
+kp:enter
+t:drop amethyst
+kp:enter
+
+
+t:n
+kp:enter
+t:quit
+kp:enter
