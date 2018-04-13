@@ -55,8 +55,6 @@ t:toukmond
 kp:enter
 t:binary
 kp:enter
-#t:send bracelet.o
-#kp:enter
 t:send lamp.o
 kp:enter
 t:send shovel.o
@@ -158,8 +156,6 @@ t:s
 kp:enter
 t:put diamond in chute
 kp:enter
-#t:put bracelet in chute
-#kp:enter
 t:s
 kp:enter
 t:get all
