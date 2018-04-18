@@ -10,7 +10,7 @@ dunnet.expect('>')
 
 
 def sendOne(command, timeout_val=.01, expected = standard_expect):
-    dunnet.sendline(command)
+    typeIt(command)
     got_expected = True
     try:
         dunnet.expect(expected, timeout=timeout_val)
@@ -21,9 +21,16 @@ def sendOne(command, timeout_val=.01, expected = standard_expect):
     return got_expected
 
 
+def typeIt(command):
+    for character in command:
+        dunnet.send(character)
+        dunnet.expect(TIMEOUT, .005)
+    dunnet.sendline('')
+
+
 def getCode():
     # dunnet.expect([TIMEOUT], timeout=3)
-    dunnet.sendline('type foo.txt')
+    typeIt('type foo.txt')
     dunnet.expect('(\d{3})')
     code = dunnet.match.group(1)
     dunnet.expect(['A>'])
@@ -95,8 +102,8 @@ def answerQuestion(direction):
                'stallman',
                '2',
                'vermont',
-               'ten',
-               'fourth',
+               '10',
+               '4',
                '24',
                'grizzly',
                'cpu',
