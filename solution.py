@@ -3,7 +3,7 @@ import sys
 from pexpect import spawn, EOF
 from dunnetPytool import sendOne, getCode
 
-dunnet = spawn('emacs -batch -l dunnet')
+dunnet = spawn('emacs -batch -l dunnet', encoding='utf-8')
 dunnet.logfile_read = sys.stdout
 dunnet.expect('>')
 
@@ -44,10 +44,10 @@ def ensureFifthSt(street):
 
 
 def answerQuestion(direction):
-    questions = ['What is your password on the machine called \'pokey\'?',
+    questions = ['What is your password on the machine called ‘pokey‘?',
                  'What password did you use during anonymous ftp to gamma?',
                  'treasures for points?',
-                 'What is your login name on the \'endgame\' machine?',
+                 'What is your login name on the ‘endgame’ machine?',
                  'What is the nearest whole dollar to the price of the shovel?',
                  'What is the name of the bus company serving the town?',
                  'Give either of the two last names in the mailroom, other than your own.',
