@@ -3,7 +3,7 @@ import sys
 from pexpect import spawn, EOF
 from dunnetPytool import sendOne, getCode
 
-dunnet = spawn('emacs -batch -l dunnet')
+dunnet = spawn('emacs -batch -l dunnet', encoding='utf-8')
 dunnet.logfile_read = sys.stdout
 dunnet.expect('>')
 
